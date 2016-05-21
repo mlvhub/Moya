@@ -21,7 +21,6 @@
 		0670D32A1BE1CB010062593A /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0670D3291BE1CB010062593A /* RxSwift.framework */; };
 		0676A5E61BFE80D3001C7F55 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D41BFE80D3001C7F55 /* Endpoint.swift */; };
 		0676A5E71BFE80D3001C7F55 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D41BFE80D3001C7F55 /* Endpoint.swift */; };
-		0676A5E81BFE80D3001C7F55 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D41BFE80D3001C7F55 /* Endpoint.swift */; };
 		0676A5E91BFE80D3001C7F55 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D41BFE80D3001C7F55 /* Endpoint.swift */; };
 		0676A5EA1BFE80D3001C7F55 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D41BFE80D3001C7F55 /* Endpoint.swift */; };
 		0676A5EB1BFE80D3001C7F55 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D41BFE80D3001C7F55 /* Endpoint.swift */; };
@@ -33,7 +32,6 @@
 		0676A5F11BFE80D3001C7F55 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D41BFE80D3001C7F55 /* Endpoint.swift */; };
 		0676A5F21BFE80D3001C7F55 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D51BFE80D3001C7F55 /* Error.swift */; };
 		0676A5F31BFE80D3001C7F55 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D51BFE80D3001C7F55 /* Error.swift */; };
-		0676A5F41BFE80D3001C7F55 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D51BFE80D3001C7F55 /* Error.swift */; };
 		0676A5F51BFE80D3001C7F55 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D51BFE80D3001C7F55 /* Error.swift */; };
 		0676A5F61BFE80D3001C7F55 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D51BFE80D3001C7F55 /* Error.swift */; };
 		0676A5F71BFE80D3001C7F55 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D51BFE80D3001C7F55 /* Error.swift */; };
@@ -45,7 +43,6 @@
 		0676A5FD1BFE80D3001C7F55 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D51BFE80D3001C7F55 /* Error.swift */; };
 		0676A5FE1BFE80D3001C7F55 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D61BFE80D3001C7F55 /* Image.swift */; };
 		0676A5FF1BFE80D3001C7F55 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D61BFE80D3001C7F55 /* Image.swift */; };
-		0676A6001BFE80D3001C7F55 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D61BFE80D3001C7F55 /* Image.swift */; };
 		0676A6011BFE80D3001C7F55 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D61BFE80D3001C7F55 /* Image.swift */; };
 		0676A6021BFE80D3001C7F55 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D61BFE80D3001C7F55 /* Image.swift */; };
 		0676A6031BFE80D3001C7F55 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D61BFE80D3001C7F55 /* Image.swift */; };
@@ -57,7 +54,6 @@
 		0676A6091BFE80D3001C7F55 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D61BFE80D3001C7F55 /* Image.swift */; };
 		0676A60A1BFE80D3001C7F55 /* Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D71BFE80D3001C7F55 /* Moya.swift */; };
 		0676A60B1BFE80D3001C7F55 /* Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D71BFE80D3001C7F55 /* Moya.swift */; };
-		0676A60C1BFE80D3001C7F55 /* Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D71BFE80D3001C7F55 /* Moya.swift */; };
 		0676A60D1BFE80D3001C7F55 /* Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D71BFE80D3001C7F55 /* Moya.swift */; };
 		0676A60E1BFE80D3001C7F55 /* Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D71BFE80D3001C7F55 /* Moya.swift */; };
 		0676A60F1BFE80D3001C7F55 /* Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D71BFE80D3001C7F55 /* Moya.swift */; };
@@ -69,7 +65,6 @@
 		0676A6151BFE80D3001C7F55 /* Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D71BFE80D3001C7F55 /* Moya.swift */; };
 		0676A6161BFE80D3001C7F55 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D81BFE80D3001C7F55 /* Plugin.swift */; };
 		0676A6171BFE80D3001C7F55 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D81BFE80D3001C7F55 /* Plugin.swift */; };
-		0676A6181BFE80D3001C7F55 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D81BFE80D3001C7F55 /* Plugin.swift */; };
 		0676A6191BFE80D3001C7F55 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D81BFE80D3001C7F55 /* Plugin.swift */; };
 		0676A61A1BFE80D3001C7F55 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D81BFE80D3001C7F55 /* Plugin.swift */; };
 		0676A61B1BFE80D3001C7F55 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D81BFE80D3001C7F55 /* Plugin.swift */; };
@@ -81,7 +76,6 @@
 		0676A6211BFE80D3001C7F55 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5D81BFE80D3001C7F55 /* Plugin.swift */; };
 		0676A6221BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DA1BFE80D3001C7F55 /* CredentialsPlugin.swift */; };
 		0676A6231BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DA1BFE80D3001C7F55 /* CredentialsPlugin.swift */; };
-		0676A6241BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DA1BFE80D3001C7F55 /* CredentialsPlugin.swift */; };
 		0676A6251BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DA1BFE80D3001C7F55 /* CredentialsPlugin.swift */; };
 		0676A6261BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DA1BFE80D3001C7F55 /* CredentialsPlugin.swift */; };
 		0676A6271BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DA1BFE80D3001C7F55 /* CredentialsPlugin.swift */; };
@@ -93,7 +87,6 @@
 		0676A62D1BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DA1BFE80D3001C7F55 /* CredentialsPlugin.swift */; };
 		0676A62E1BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DB1BFE80D3001C7F55 /* NetworkActivityPlugin.swift */; };
 		0676A62F1BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DB1BFE80D3001C7F55 /* NetworkActivityPlugin.swift */; };
-		0676A6301BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DB1BFE80D3001C7F55 /* NetworkActivityPlugin.swift */; };
 		0676A6311BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DB1BFE80D3001C7F55 /* NetworkActivityPlugin.swift */; };
 		0676A6321BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DB1BFE80D3001C7F55 /* NetworkActivityPlugin.swift */; };
 		0676A6331BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DB1BFE80D3001C7F55 /* NetworkActivityPlugin.swift */; };
@@ -105,7 +98,6 @@
 		0676A6391BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DB1BFE80D3001C7F55 /* NetworkActivityPlugin.swift */; };
 		0676A63A1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DC1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift */; };
 		0676A63B1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DC1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift */; };
-		0676A63C1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DC1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift */; };
 		0676A63D1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DC1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift */; };
 		0676A63E1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DC1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift */; };
 		0676A63F1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5DC1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift */; };
@@ -129,7 +121,6 @@
 		0676A6681BFE80D3001C7F55 /* SignalProducer+Moya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5E01BFE80D3001C7F55 /* SignalProducer+Moya.swift */; };
 		0676A66A1BFE80D3001C7F55 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5E11BFE80D3001C7F55 /* Response.swift */; };
 		0676A66B1BFE80D3001C7F55 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5E11BFE80D3001C7F55 /* Response.swift */; };
-		0676A66C1BFE80D3001C7F55 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5E11BFE80D3001C7F55 /* Response.swift */; };
 		0676A66D1BFE80D3001C7F55 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5E11BFE80D3001C7F55 /* Response.swift */; };
 		0676A66E1BFE80D3001C7F55 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5E11BFE80D3001C7F55 /* Response.swift */; };
 		0676A66F1BFE80D3001C7F55 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0676A5E11BFE80D3001C7F55 /* Response.swift */; };
@@ -181,7 +172,6 @@
 		55B5D5CB1C1F6FA500A11B82 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55B5D5C81C1F6F8F00A11B82 /* Result.framework */; };
 		55B5D5CD1C1F6FBE00A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
 		55B5D5CE1C1F6FC100A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
-		55B5D5CF1C1F6FC100A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
 		55B5D5D01C1F6FC200A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
 		55B5D5D11C1F6FC200A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
 		55B5D5D21C1F6FC300A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
@@ -191,6 +181,7 @@
 		55B5D5D61C1F6FC500A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
 		55B5D5D71C1F6FC500A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
 		55B5D5D81C1F6FC600A11B82 /* Moya+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55B5D5CC1C1F6FBE00A11B82 /* Moya+Alamofire.swift */; };
+		E5E053131CF0CC89000F1C97 /* Moya.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 091F0D341BDE998F009D0A49 /* Moya.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -296,6 +287,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5E053131CF0CC89000F1C97 /* Moya.framework in Frameworks */,
 				55B5D5BF1C1F6F4000A11B82 /* Result.framework in Frameworks */,
 				0670D32A1BE1CB010062593A /* RxSwift.framework in Frameworks */,
 				091F0D981BDE9D9A009D0A49 /* Alamofire.framework in Frameworks */,
@@ -1275,18 +1267,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0676A5F41BFE80D3001C7F55 /* Error.swift in Sources */,
 				0676A6841BFE80D3001C7F55 /* Moya+RxSwift.swift in Sources */,
-				0676A6001BFE80D3001C7F55 /* Image.swift in Sources */,
-				0676A6301BFE80D3001C7F55 /* NetworkActivityPlugin.swift in Sources */,
-				0676A66C1BFE80D3001C7F55 /* Response.swift in Sources */,
-				0676A5E81BFE80D3001C7F55 /* Endpoint.swift in Sources */,
-				0676A6241BFE80D3001C7F55 /* CredentialsPlugin.swift in Sources */,
-				0676A63C1BFE80D3001C7F55 /* NetworkLoggerPlugin.swift in Sources */,
-				55B5D5CF1C1F6FC100A11B82 /* Moya+Alamofire.swift in Sources */,
 				0676A6901BFE80D3001C7F55 /* Observable+Moya.swift in Sources */,
-				0676A6181BFE80D3001C7F55 /* Plugin.swift in Sources */,
-				0676A60C1BFE80D3001C7F55 /* Moya.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

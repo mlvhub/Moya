@@ -9,9 +9,9 @@ public enum Error: ErrorType {
     case Underlying(NSError)
 }
 
-public extension Moya.Error {
+public extension Error {
     /// Depending on error type, returns a Response object.
-    var response: Moya.Response? {
+    var response: Response? {
         switch self {
         case .ImageMapping(let response): return response
         case .JSONMapping(let response): return response

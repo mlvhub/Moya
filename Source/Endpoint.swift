@@ -16,18 +16,18 @@ public class Endpoint<Target> {
     public typealias SampleResponseClosure = () -> EndpointSampleResponse
 
     public let URL: String
-    public let method: Moya.Method
+    public let method: Method
     public let sampleResponseClosure: SampleResponseClosure
     public let parameters: [String: AnyObject]?
-    public let parameterEncoding: Moya.ParameterEncoding
+    public let parameterEncoding: ParameterEncoding
     public let httpHeaderFields: [String: String]?
 
     /// Main initializer for Endpoint.
     public init(URL: String,
         sampleResponseClosure: SampleResponseClosure,
-        method: Moya.Method = Moya.Method.GET,
+        method: Method = Method.GET,
         parameters: [String: AnyObject]? = nil,
-        parameterEncoding: Moya.ParameterEncoding = .URL,
+        parameterEncoding: ParameterEncoding = .URL,
         httpHeaderFields: [String: String]? = nil) {
 
         self.URL = URL
@@ -49,12 +49,12 @@ public class Endpoint<Target> {
     }
     
     /// Convenience method for creating a new Endpoint with the same properties as the receiver, but with another parameter encoding.
-    public func endpointByAddingParameterEncoding(newParameterEncoding: Moya.ParameterEncoding) -> Endpoint<Target> {
+    public func endpointByAddingParameterEncoding(newParameterEncoding: ParameterEncoding) -> Endpoint<Target> {
         return endpointByAdding(parameterEncoding: newParameterEncoding)
     }
     
     /// Convenience method for creating a new Endpoint, with changes only to the properties we specify as parameters
-    public func endpointByAdding(parameters parameters: [String: AnyObject]? = nil, httpHeaderFields: [String: String]? = nil, parameterEncoding: Moya.ParameterEncoding? = nil)  -> Endpoint<Target> {
+    public func endpointByAdding(parameters parameters: [String: AnyObject]? = nil, httpHeaderFields: [String: String]? = nil, parameterEncoding: ParameterEncoding? = nil)  -> Endpoint<Target> {
         let newParameters = addParameters(parameters)
         let newHTTPHeaderFields = addHTTPHeaderFields(httpHeaderFields)
         let newParameterEncoding = parameterEncoding ?? self.parameterEncoding
